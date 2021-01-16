@@ -19,7 +19,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/github.com\/4urelie\/Merlion_map\/blob\/gh-pages\/Rules.pdf"
+                 "value":"https:\/\/4urelie.github.io\/Merlion_map\/Rules.pdf"
                 }],
          "type":"tilelayer",
          "visible":true,
