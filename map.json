@@ -66,7 +66,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/survive-the-collapse.com\/wp-content\/uploads\/2022\/06\/QRcode_2022-06.png"
+                 "value":"https:\/\/survive-the-collapse.com\/qrcode\/"
                 }],
          "type":"tilelayer",
          "visible":false,
