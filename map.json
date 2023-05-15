@@ -30,7 +30,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/survive-the-collapse.com\/how-to-schedule\/"
+                 "value":"https:\/\/survive-the-collapse.com\/schedule-a\/"
                 }],
          "type":"tilelayer",
          "visible":true,
